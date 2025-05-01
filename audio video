@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <body >
+        <audio controls>
+            <source src="C:\Users\user\Downloads\Marhaba-SenSongsMp3.Co.mp3"/>
+        </audio>
+            <video width="300" height="300" controls>
+                <source src="C:\Users\user\Downloads\VID-20241115-WA0002.mp4"type="video/webm"/>
+                <center><h1>This is Audio and Video Display</h1></center>
+
+    </body>
+</video>
+</html>
